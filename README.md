@@ -9,6 +9,8 @@
 - kajvtoet@outlook.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Resume
+- https://github.com/KajToet/KajToet/blob/main/CV_KajToet_7-2024.pdf
 
 <!---
 KajToet/KajToet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
