@@ -9,6 +9,10 @@
 - kajvtoet@outlook.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Youtube Channels: ...
+- https://www.youtube.com/@kajvtoet
+- https://www.youtube.com/@kajtoet
+- https://www.youtube.com/@PhrackTheLord
 - Resume
 - https://github.com/KajToet/KajToet/blob/main/CV_KajToet_7-2024.pdf
 
