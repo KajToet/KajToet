@@ -13,6 +13,8 @@
 - https://www.youtube.com/@kajvtoet
 - https://www.youtube.com/@kajtoet
 - https://www.youtube.com/@PhrackTheLord
+- https://www.youtube.com/@WikiVidiDocumentaries
+- https://www.youtube.com/@doodlechannel118
 - Resume
 - https://github.com/KajToet/KajToet/blob/main/CV_KajToet_7-2024.pdf
 
