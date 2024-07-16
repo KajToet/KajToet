@@ -17,8 +17,10 @@
 - https://www.youtube.com/@doodlechannel118
 - Hackaday: ...
 - https://hackaday.io/Kajos
-- Resume
+- Resume: ...
 - https://github.com/KajToet/KajToet/blob/main/CV_KajToet_7-2024.pdf
+- Current address: ...
+- Delft
 
 <!---
 KajToet/KajToet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
