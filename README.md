@@ -15,6 +15,8 @@
 - https://www.youtube.com/@PhrackTheLord
 - https://www.youtube.com/@WikiVidiDocumentaries
 - https://www.youtube.com/@doodlechannel118
+- Hackaday: ...
+- https://hackaday.io/Kajos
 - Resume
 - https://github.com/KajToet/KajToet/blob/main/CV_KajToet_7-2024.pdf
 
